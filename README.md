@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <p>this Module is to create a VM with a script to install NGINX with a static External IP</p>
+  <h1>this Module is to create a VM with a script to install NGINX with a static External IP</h1>
 </div>
 
 
--this module is not tested on a gcp account.
+<h2>this module is not tested on a gcp account</h2>
 
 -instruction on how to create an SSH key and use it in the module
 
