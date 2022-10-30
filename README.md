@@ -10,7 +10,7 @@ this Module is to create a VM with a script to install NGINX with a static Exter
 
 How to Run this Moduel?
   
--> 1) <terrafrom init>
+-> 1) < terrafrom init >
 
 -> 2) <terraform plan -var-file="values.tfvars"> to plan and check the results
 
