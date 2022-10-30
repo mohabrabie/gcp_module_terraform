@@ -1,0 +1,7 @@
+region          = "us-central1"
+zone            = "us-central1-a"
+machine_type    = "e2-medium"
+machine_name    = "test_vm"
+vm_address      = "vm_ip_address"
+gce_ssh_user    = "admin"
+gce_ssh_pub_key_file = ""
