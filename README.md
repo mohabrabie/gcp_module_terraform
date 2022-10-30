@@ -1,4 +1,7 @@
-this Module is to create a VM with a script to install NGINX with a static External IP
+<div id="header" align="center">
+  <p>this Module is to create a VM with a script to install NGINX with a static External IP</p>
+</div>
+
 
 -this module is not tested on a gcp account.
 
